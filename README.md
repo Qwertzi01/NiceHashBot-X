@@ -12,7 +12,7 @@ From buyers for buyers developed further.
 - Manage orders (create/refill/edit/delete)
 - Automatically manage orders for **(Bot On mode)**:
     * **recreating** - recreates automatic expired and completed orders (but first preventing from completing)
-    * **refilling** - automatic refill order with own defined amount when x% of available money is consumed
+    * **refilling** - automatic refill order with own defined amount if only a amount x is left in the order
     * **price adjustment** - keep price as low as possible to get hash (max. increase in x% and decrease price)
     * **order handling** - automatic calculation of price/speed and necessary price/speed/order adjustments
 - Order handler engine is full-configurable to fit the most needs for different use cases
