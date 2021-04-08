@@ -20,7 +20,7 @@ From buyers for buyers developed further.
 - Easy configurable and full control over timings for different Bot tasks
 - Optimized stability for 24/7 continuous operation, error log and auto-restart
 - Console window showing clean colorized tasks, important events and failures
-- Run on **testnet** and **production** environment
+- Run on **testnet** and **production** environment with all marketplace locations
 
 # <a name="get"></a> How to get the Bot
 
