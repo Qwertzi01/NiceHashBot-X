@@ -14,6 +14,7 @@ From buyers for buyers developed further.
     * **recreating** - recreates automatic expired and completed orders (but first preventing from completing)
     * **refilling** - automatic refill order with own defined amount if only a amount x is left in the order
     * **price adjustment** - keep price as low as possible to get hash (max. increase in x% and decrease price)
+    * **own price step** - define a custom price step for price adjustments (only smaller steps than predefined)
     * **order handling** - automatic calculation of price/speed and necessary price/speed/order adjustments
     * **OneShot feature** - the Bot create a new order if difficulty of a coin is low to get wished profit
 - Order handler engine is full-configurable to fit the most needs for different use cases
@@ -36,4 +37,4 @@ Contact for further infos and price: nicehashbotx@outlook.com
 - Note: .NET Framework 4.7.2 or higher is required
 - You can also run multiple instances of NiceHashBotX - each in own folder with different API credentials.
 
-*NiceHashBotX v1.05 is closed source. Based on the source of the official NiceHashBot.*
+*NiceHashBotX v1.05-1 is closed source. Based on the source of the official NiceHashBot.*
