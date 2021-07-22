@@ -22,6 +22,7 @@ From buyers for buyers developed further.
 - Info section to get algorithms specifications and own NiceHash BTC wallet address
 - Fast ability to manual control a order with speed/cancel buttons in main window
 - Easy configurable and full control over timings for different Bot tasks
+- Hidden settings can be changed over a config file (for experienced users)
 - Optimized stability for 24/7 continuous operation, error log and auto-restart
 - Console window showing clean colorized tasks, important events and failures
 - Run on **testnet** and **production** environment with all marketplace locations
@@ -37,4 +38,4 @@ Contact for further infos and price: nicehashbotx@outlook.com
 - Note: .NET Framework 4.7.2 or higher is required
 - You can also run multiple instances of NiceHashBotX - each in own folder with different API credentials.
 
-*NiceHashBotX v1.05-1 is closed source. Based on the source of the official NiceHashBot.*
+*NiceHashBotX v1.05-2 is closed source. Based on the source of the official NiceHashBot.*
