@@ -38,4 +38,4 @@ Contact for further infos and price: nicehashbotx@outlook.com
 - Note: .NET Framework 4.7.2 or higher is required
 - You can also run multiple instances of NiceHashBotX - each in own folder with different API credentials.
 
-*NiceHashBotX v1.05-2 is closed source. Based on the source of the official NiceHashBot.*
+*NiceHashBotX v1.05-3 is closed source. Based on the source of the official NiceHashBot.*
