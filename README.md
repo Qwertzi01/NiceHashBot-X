@@ -33,7 +33,7 @@ From buyers for buyers developed further.
 
 Contact for further infos and price: nicehashbotx@outlook.com
 
-![NiceHashBotX](https://i.ibb.co/NZ3nMs8/Nice-Hash-Bot-X.jpg)
+![NiceHashBotX](https://i.ibb.co/5cZqr1d/Nice-Hash-Bot-X.jpg)
 
 # <a name="run"></a> Instructions on how to run
 - Run NiceHashBotX.exe (compatible with Windows 7/8/10/11)
