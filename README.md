@@ -1,5 +1,5 @@
 # NiceHashBotX
-NiceHash Bot for automatic order management. 
+NHBotX is a Bot for extended order management, manual or automatic, at NiceHash.
 From buyers for buyers developed further.
 
 - [Features](#features)
