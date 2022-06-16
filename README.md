@@ -17,8 +17,10 @@ From buyers for buyers developed further.
     * **own price step** - define a custom price step for price adjustments (only smaller steps than predefined)
     * **order handling** - automatic calculation of price/speed and necessary price/speed/order adjustments
     * **OneShot feature** - the Bot create a new order if difficulty of a coin is low to get wished profit
+    * **Interval orders** - automatic creating of order(s) to a predefined interval and timerange
 - Order handler engine is full-configurable to fit the most needs for different use cases
 - OneShot runs in background and can be used at the same time as all other Bot functions
+- Interval order(s) run also in background and are full-configurable over a config file
 - Info section to get algorithms specifications and own NiceHash BTC wallet address
 - Fast ability to manual control a order with speed/cancel buttons in main window
 - Option to filter orders for specific bot instance regarding algo and/or market
@@ -40,4 +42,4 @@ Contact for further infos and price: nicehashbotx@outlook.com
 - Note: .NET Framework 4.7.2 or higher is required
 - You can also run multiple instances of NiceHashBotX - each in own folder with different API credentials.
 
-*NiceHashBotX v1.06-0 is closed source. Based on the source of the official NiceHashBot.*
+*NiceHashBotX v1.06-1 is closed source. Based on the source of the official NiceHashBot.*
