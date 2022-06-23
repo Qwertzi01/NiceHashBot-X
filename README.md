@@ -6,6 +6,11 @@ From buyers for buyers developed further.
 - [Get the Bot](#get)
 - [How to run?](#run)
 
+**Beware of scammers!** Only use our official pages and contacts:  
+
+Media: [Telegram](https://t.me/nicehashbotx) / [Discord](https://discord.gg/quDQsxHCGT) /  [Bitcointalk](https://bitcointalk.org/index.php?topic=5266034.0) / [Github](https://github.com/Qwertzi01/NiceHashBot-X)  
+Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)  
+
 # <a name="features"></a> Built-in Features
 
 - Manage pools (create/edit/delete)
