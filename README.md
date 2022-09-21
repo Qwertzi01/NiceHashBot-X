@@ -43,8 +43,8 @@ Contact for further infos and price: nicehashbotx@outlook.com
 ![NiceHashBotX](https://i.ibb.co/5cZqr1d/Nice-Hash-Bot-X.jpg)
 
 # <a name="run"></a> Instructions on how to run
-- Run NiceHashBotX.exe (compatible with Windows 7/8/10/11)
+- Run NiceHashBotX.exe (compatible with Windows 10/11)
 - Note: .NET Framework 4.8 or higher is required
 - You can also run multiple instances of NiceHashBotX - each in own folder with different API credentials.
 
-*NiceHashBotX v1.06-3 is closed source. Based on the source of the official NiceHashBot.*
+*NiceHashBotX v1.06-4 is closed source. Based on the source of the official NiceHashBot.*
