@@ -38,7 +38,9 @@ Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)
 
 # <a name="get"></a> How to get the Bot
 
-Contact for further infos and price: nicehashbotx@outlook.com
+📌 **Important announcement!**
+NiceHashBotX and its source code are for sale ...
+Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)  
 
 ![NiceHashBotX](https://user-images.githubusercontent.com/7136516/199654805-5b8ece38-bb70-4542-a261-aa42932f32f2.jpg)
 
@@ -47,4 +49,4 @@ Contact for further infos and price: nicehashbotx@outlook.com
 - Note: .NET Framework 4.8 or higher is required
 - You can also run multiple instances of NiceHashBotX - each in own folder with different API credentials.
 
-*NiceHashBotX v1.06-6 (updated) is closed source. Based on the source of the official NiceHashBot.*
+*NiceHashBotX v1.06-6 (updated) is closed source.*
