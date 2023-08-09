@@ -38,8 +38,8 @@ Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)
 
 # <a name="get"></a> How to get the Bot
 
-📌 **Important announcement!**
-NiceHashBotX and its source code are for sale ...
+📌 **Important announcement!**  
+NiceHashBotX and its source code are for sale ...  
 Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)  
 
 ![NiceHashBotX](https://user-images.githubusercontent.com/7136516/199654805-5b8ece38-bb70-4542-a261-aa42932f32f2.jpg)
