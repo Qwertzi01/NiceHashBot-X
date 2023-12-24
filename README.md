@@ -47,6 +47,6 @@ Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)
 # <a name="run"></a> Instructions on how to run
 - Run NiceHashBotX.exe (compatible with Windows 10/11)
 - Note: .NET Framework 4.8 or higher is required
-- You can also run multiple instances of NiceHashBotX - each in own folder with different API credentials.
+- You can also run multiple instances of NiceHashBotX.
 
 *NiceHashBotX v1.06-6 (updated) is closed source.*
