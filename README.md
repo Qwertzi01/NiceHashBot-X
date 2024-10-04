@@ -18,7 +18,7 @@ Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)
 - Automatically manage orders for **(Bot On mode)**:
     * **recreating** - recreates automatic expired and completed orders (but first preventing from completing)
     * **refilling** - automatic refill order with own defined amount if only a amount x is left in the order
-    * **price adjustment** - keep price as low as possible to get hash (max. increase in x% and decrease price)
+    * **price adjustment** - keep price as low as possible to get hash (max. increase in x% / fixed price, decrease price or recreate)
     * **own price step** - define a custom price step for price adjustments (only smaller steps than predefined)
     * **order handling** - automatic calculation of price/speed and necessary price/speed/order adjustments
     * **OneShot feature** - the Bot create a new order if difficulty of a coin is low to get wished profit
@@ -49,4 +49,4 @@ Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)
 - Note: .NET Framework 4.8 or higher is required
 - You can also run multiple instances of NiceHashBotX.
 
-*NiceHashBotX v1.06-7P is closed source.*
+*NiceHashBotX v1.06-7P2 is closed source.*
