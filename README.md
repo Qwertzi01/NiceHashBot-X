@@ -49,4 +49,4 @@ Contact: nicehashbotx@outlook.com / [Telegram](https://t.me/nhbotx)
 - Note: .NET Framework 4.8 or higher is required
 - You can also run multiple instances of NiceHashBotX.
 
-*NiceHashBotX v1.06-8 is closed source.*
+*NiceHashBotX v1.06-8P is closed source.*
